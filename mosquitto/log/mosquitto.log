@@ -266,3 +266,10 @@
 1757379256: New connection from 172.18.0.6:51880 on port 1883.
 1757379256: New client connected from 172.18.0.6:51880 as nodered805a44572c7e2ee3 (p2, c1, k60, u'aluno').
 1757379549: Client pub-2fbb4ce9a7c098 closed its connection.
+1757454356: mosquitto version 2.0.22 starting
+1757454356: Config loaded from /mosquitto/config/mosquitto.conf.
+1757454356: Opening ipv4 listen socket on port 1883.
+1757454356: Opening websockets listen socket on port 9001.
+1757454356: mosquitto version 2.0.22 running
+1757454365: New connection from 172.18.0.2:40884 on port 1883.
+1757454365: New client connected from 172.18.0.2:40884 as nodered68024579c55cb8e7 (p2, c1, k60, u'aluno').
