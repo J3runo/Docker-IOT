@@ -18,7 +18,8 @@
             }
         },
         "debug": {
-            "filter": "filterAll"
+            "filter": "filterAll",
+            "clearType": "filtered"
         }
     }
 }
